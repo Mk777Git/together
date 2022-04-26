@@ -1,2 +1,3 @@
 In A wurde noch ein weiterer Text /zwei.txt) hinzugefügt und erneut auf den Server gepusht.
 Diese Zeile wurde in A hinzugefügt.
+Jetzt mal von B aus gleiche Text ändern.
