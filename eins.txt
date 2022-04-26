@@ -1,1 +1,2 @@
 Das ist ein Test. Zeile wurde in A hinzugefügt.
+Nachdem A committet und gepusht wurde wurde das dann in B gecloned. 
