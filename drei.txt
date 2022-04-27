@@ -2,3 +2,4 @@ Das ist der dritte Text
 Jetzt mal den dritten Text von A aus ändern.
 Noch mal den dritten Text von A aus ändern.
 Dieser Text wird von B geändert im Zustand des"dtached Head state"
+Add Text in Dev branch in B.
